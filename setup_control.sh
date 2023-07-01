@@ -25,3 +25,5 @@ echo "host_key_checking = False" | sudo tee -a /etc/ansible/ansible.cfg
 
 # setup lamp
 runuser -u JC981219 -- bash /local/repository/setup_ansible.sh
+
+
